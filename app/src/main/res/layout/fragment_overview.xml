@@ -46,7 +46,6 @@
             app:spanCount="2"
             tools:itemCount="20"
             tools:listitem="@layout/grid_view_item"/>
-
         <ImageView
             android:id="@+id/status_image"
             android:layout_width="wrap_content"
